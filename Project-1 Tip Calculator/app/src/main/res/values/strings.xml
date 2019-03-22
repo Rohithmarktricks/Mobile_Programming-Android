@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+
+    <!--This following implementation is required to show different strings in the Tip Calculator Application-->
+
+    <!--The value for the Bill Amount-->
+    <string name="main.msg.billamount">Bill Amount</string>
+    <!--Hint for the user when he/she wants to enter the bill amount-->
+    <string name="main.hint.billamount">Enter Bill Amount Here</string>
+
+    <!--For service rating-->
+    <string name="name.msg.servicerating">Service Rating</string>
+
+    <!--Tip percent-->
+    <!--% is a Placeholder that will be replaced with another value while displaying-->
+    <string name="name.msg.tippercent">%s%% Tip Percent</string>
+
+    <!--Tip total-->
+    <string name="main.msg.tiptotal">$%s Tip Total</string>
+
+    <!--Total Bill-->
+    <string name="main.msg.billtotal">Bill Total</string>
+
+    <!--To display the final result-->
+    <string name="main.msg.billtotalresult">$%s</string>
+
+
+
+</resources>
